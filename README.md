@@ -12,5 +12,8 @@ Contributors for this chatbot are :
        3. Chaitanya Muthyalapati(18pa1a05a4)
   
  The process file and objective file are attached to this repository and also added block diagram.
-
-
+ 
+ Links referred to complete the code :
+ 
+       1. Block diagram of chatbot :
+              https://drive.google.com/file/d/1q957EIjgEpRp4SqTDUaJK6PRuGFBOJsD/view?usp=sharing
